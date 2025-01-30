@@ -12,7 +12,9 @@ This system helps track workers' attendance, calculate work hours, generate wage
 * Report Generation:
 
   -Per-Day Report: Shows daily work hours and wages for workers.
+  
   -Monthly Report: Summarizes attendance, overtime, and wages for a full month.
+  
 * Worker Cannot Delete Data: Workers cannot delete any data. Only the admin has the authority to manage records.
 * Secure Database Storage: All attendance records, leave requests, and wage details are securely stored in a MySQL database.
 
