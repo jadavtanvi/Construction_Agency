@@ -59,7 +59,7 @@ This system helps track workers' attendance, calculate work hours, generate wage
 ![Screenshot (230)](https://github.com/user-attachments/assets/9ffbcba1-e871-43bb-b8b0-6c8b7dcc8e4b)
 
 
-💼 Worker Portal – Attendance & Wages
+💼 Worker Portal – Attendance & Wages Based on Time
 
 ![Screenshot (226)](https://github.com/user-attachments/assets/42eb92fe-b32a-47be-aa08-6401bb9d1e24)
 
