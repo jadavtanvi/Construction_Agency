@@ -4,8 +4,8 @@ Welcome to the Online Attendance Management System!
 This system helps track workers' attendance, calculate work hours, generate wages, and manage leave requests efficiently.
 
 # Features
-✅ Automatic Attendance Marking: The system marks Check-In when a worker logs in and Check-Out when they log out, automatically calculating work hours.
-✅ Work Hours & Wages Calculation: The system calculates workers' daily work hours, considering 8 hours as standard work time, and calculates overtime wages for extra hours.
+* Automatic Attendance Marking: The system marks Check-In when a worker logs in and Check-Out when they log out, automatically calculating work hours.
+* Work Hours & Wages Calculation: The system calculates workers' daily work hours, considering 8 hours as standard work time, and calculates overtime wages for extra hours.
 ✅ Worker Panel - Personal Information: Workers can view their Worker ID, Name, Contact Number, Total Work Hours, and Daily Wage.
 ✅ Leave Management: Workers can request leave through the system if they are unwell or need time off, which the admin can approve or reject.
 ✅ Real-Time Attendance Tracking: The admin can instantly monitor workers' attendance and work hours.
