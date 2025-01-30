@@ -1,4 +1,3 @@
-# Construction_Agency
 # Online Attendance Management System for Construction Agency
 Welcome to the Online Attendance Management System!
 This system helps track workers' attendance, calculate work hours, generate wages, and manage leave requests efficiently.
