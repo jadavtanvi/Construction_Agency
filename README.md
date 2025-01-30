@@ -50,8 +50,31 @@ This system helps track workers' attendance, calculate work hours, generate wage
 
 # For Worker Panel Screenshot:
 📌 Worker Panel Overview
-![image](https://github.com/user-attachments/assets/20dec249-d388-46bb-93aa-9b843abafd50)
+
+![Screenshot (225)](https://github.com/user-attachments/assets/e55f94ca-7d45-4bc9-b8ee-bfd8a7bf591b)
+
 
 🖥 Worker Dashboard Screenshot
-👷 Worker Interface Preview
+
+![Screenshot (230)](https://github.com/user-attachments/assets/02262284-f129-4128-8621-d9bf3566d752)
+
 💼 Worker Portal – Attendance & Wages
+
+![Screenshot (226)](https://github.com/user-attachments/assets/f391f96e-cef4-490f-8af9-a575ab246cf7)
+
+
+# For Admin Panel Screenshot:
+📌 Admin Panel Overview
+
+![image](https://github.com/user-attachments/assets/6203381c-ada3-4282-90b2-940d28481606)
+
+
+🖥 Admin Dashboard Screenshot
+ 
+ ![Screenshot (228)](https://github.com/user-attachments/assets/a4224536-06dc-41e4-8818-2bbedfefd8e5)
+
+📊 Admin Interface – Attendance & Reports
+
+![Screenshot (229)](https://github.com/user-attachments/assets/887e2fea-4ead-4ce8-bd82-3ae33d98abe1)
+
+
