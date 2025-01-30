@@ -6,15 +6,15 @@ This system helps track workers' attendance, calculate work hours, generate wage
 # Features
 * Automatic Attendance Marking: The system marks Check-In when a worker logs in and Check-Out when they log out, automatically calculating work hours.
 * Work Hours & Wages Calculation: The system calculates workers' daily work hours, considering 8 hours as standard work time, and calculates overtime wages for extra hours.
-✅ Worker Panel - Personal Information: Workers can view their Worker ID, Name, Contact Number, Total Work Hours, and Daily Wage.
-✅ Leave Management: Workers can request leave through the system if they are unwell or need time off, which the admin can approve or reject.
-✅ Real-Time Attendance Tracking: The admin can instantly monitor workers' attendance and work hours.
-✅ Report Generation:
+* Worker Panel - Personal Information: Workers can view their Worker ID, Name, Contact Number, Total Work Hours, and Daily Wage.
+* Leave Management: Workers can request leave through the system if they are unwell or need time off, which the admin can approve or reject.
+* Real-Time Attendance Tracking: The admin can instantly monitor workers' attendance and work hours.
+* Report Generation:
 
-Per-Day Report: Shows daily work hours and wages for workers.
-Monthly Report: Summarizes attendance, overtime, and wages for a full month.
-✅ Worker Cannot Delete Data: Workers cannot delete any data. Only the admin has the authority to manage records.
-✅ Secure Database Storage: All attendance records, leave requests, and wage details are securely stored in a MySQL database.
+  -Per-Day Report: Shows daily work hours and wages for workers.
+  -Monthly Report: Summarizes attendance, overtime, and wages for a full month.
+* Worker Cannot Delete Data: Workers cannot delete any data. Only the admin has the authority to manage records.
+* Secure Database Storage: All attendance records, leave requests, and wage details are securely stored in a MySQL database.
 
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
