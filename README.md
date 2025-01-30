@@ -48,5 +48,10 @@ This system helps track workers' attendance, calculate work hours, generate wage
 - Generate Per-Day and Monthly Reports.
 - Delete and manage worker records.
 
+# For Worker Panel Screenshot:
+📌 Worker Panel Overview
+![image](https://github.com/user-attachments/assets/20dec249-d388-46bb-93aa-9b843abafd50)
 
-
+🖥 Worker Dashboard Screenshot
+👷 Worker Interface Preview
+💼 Worker Portal – Attendance & Wages
