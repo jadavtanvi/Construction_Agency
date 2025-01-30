@@ -47,3 +47,6 @@ This system helps track workers' attendance, calculate work hours, generate wage
 - Approve or reject leave requests.
 - Generate Per-Day and Monthly Reports.
 - Delete and manage worker records.
+
+
+
